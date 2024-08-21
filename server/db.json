@@ -1,0 +1,14 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Aprender CRUD en JavaScript",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "title": "Configurar json-server",
+      "completed": true
+    }
+  ]
+}
